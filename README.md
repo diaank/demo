@@ -85,6 +85,7 @@ Test coverage includes:
 
 Unit tests for services and controllers.
 Integration tests for Kafka producer functionality using an embedded Kafka broker.
+
 ---
 
 ### Design Decisions
@@ -126,6 +127,7 @@ Testing:
 
 Used Mockito for unit tests and Spring's embedded Kafka for integration tests.
 Verified retry logic and Kafka message publishing.
+
 ---
 
 ### AI-Assisted / Google search referred parts
